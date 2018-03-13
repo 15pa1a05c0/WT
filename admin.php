@@ -12,7 +12,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <style>
    body{
-       background-image:url("images/choice.jpg");
+       background-image:url("choice.jpg");
        background-size:cover;
        background-repeat:no-repeat;
 
