@@ -23,7 +23,7 @@
 </nav>
 <style>
    body{
-       background-image:url("images/vote.jpg");
+       background-image:url("vote.jpg");
        background-size:cover;
        background-repeat:no-repeat;
 
